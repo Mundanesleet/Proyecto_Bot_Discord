@@ -1,0 +1,4 @@
+Mi programa requiere de las siguentes librerias: 
+1. discord.py 
+2. discord.ext - commands
+3. dotenv
